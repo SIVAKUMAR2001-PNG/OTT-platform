@@ -18,8 +18,8 @@ project.resizable(False,False)
 connection=pymysql.connect(
     host="localhost",
     user="root",
-    password="kabi5016",
-    database="kabi"
+    password="1234",
+    database="siva"
     )
  
 my_database=connection.cursor()
